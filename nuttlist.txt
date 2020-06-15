@@ -1,0 +1,2 @@
+||http://cloud.broadlink.com.cn^
+||https://cloud.broadlink.com.cn^
