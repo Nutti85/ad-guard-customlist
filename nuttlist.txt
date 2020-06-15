@@ -1,3 +1,6 @@
 http://cloud.broadlink.com.cn/
 https://cloud.broadlink.com.cn/
 ||broadlink.com
+||ibroadlink.com
+http://cloud.ibroadlink.com.cn/
+https://cloud.ibroadlink.com.cn/
